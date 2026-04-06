@@ -16,17 +16,9 @@ Visit the live portfolio:
 
 ## Featured Projects
 
-### Crime Pattern Analysis and Arrest Prediction
-Developed a predictive framework to identify crime patterns and forecast arrest outcomes using machine learning.
-Tools: Excel, Power Query, Power BI, Orange Data Mining
-
 ### Norwegian Non-Financial Companies Analysis
 Analyzed financial performance across industries and modeled COVID impact with future projections.
 Tools: Power BI, Power Query, Python
-
-### Wine Quality Evaluation
-Developed a data-driven method for predicting wine quality to support purchasing decisions.
-Tools:  Excel, Power BI
 
 ### Nordic HR Survey Analysis
 Analyzed employee satisfaction data to identify key drivers of engagement.
@@ -34,7 +26,16 @@ Tools: Power BI, Excel
 
 ### Logistics Optimization Analysis
 Analyzed delivery performance and simulated cost and CO₂ impact scenarios.
-Tools: Excel, Power BI
+Tools: Excel, Power BI.
+
+### Wine Quality Evaluation
+Developed a data-driven method for predicting wine quality to support purchasing decisions.
+Tools:  Excel, Power BI
+
+### Crime Pattern Analysis and Arrest Prediction
+Developed a predictive framework to identify crime patterns and forecast arrest outcomes using machine learning.
+Tools: Excel, Power Query, Power BI, Orange Data Mining
+
 
 ## Skills
 
